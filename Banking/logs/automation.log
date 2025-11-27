@@ -1,0 +1,144 @@
+2025-11-27 20:48:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-27 20:48:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-27 20:48:42 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-27 20:49:14 INFO  BaseTest:19 - Starting test: testRegisterAccountSuccessful
+2025-11-27 20:49:14 INFO  BaseTest:26 - Checking if Home Page is displayed
+2025-11-27 20:49:14 INFO  BaseTest:28 - Home Page displayed successfully
+2025-11-27 20:49:14 INFO  BaseTest:30 - Verifying Home Page title
+2025-11-27 20:49:14 INFO  BaseTest:34 - Home Page title verified successfully
+2025-11-27 20:49:14 INFO  BaseTest:36 - Verifying Home Page URL
+2025-11-27 20:49:14 INFO  BaseTest:38 - Home Page URL verified successfully
+2025-11-27 20:49:14 INFO  BaseTest:42 - Clicked on Register link
+2025-11-27 20:49:14 INFO  BaseTest:48 - Registration page URL verified
+2025-11-27 20:49:14 INFO  BaseTest:53 - Registration page title verified
+2025-11-27 20:49:14 INFO  BaseTest:55 - Navigated to Registration page successfully
+2025-11-27 20:49:16 INFO  BaseTest:67 - Filled personal details
+2025-11-27 20:49:16 INFO  BaseTest:74 - Filled account credentials
+2025-11-27 20:49:17 INFO  BaseTest:78 - Clicked on Register button
+2025-11-27 20:49:17 INFO  BaseTest:83 - Account created successfully for user: LisaUser1
+2025-11-27 20:49:18 INFO  BaseTest:87 - Clicked on logout button and logged out successfully
+2025-11-27 20:49:18 INFO  BaseTest:89 - Test completed successfully: testRegisterAccountSuccessful
+2025-11-27 20:49:27 INFO  BaseTest:19 - Starting test: testRegisterAccountSuccessful
+2025-11-27 20:49:27 INFO  BaseTest:26 - Checking if Home Page is displayed
+2025-11-27 20:49:27 INFO  BaseTest:28 - Home Page displayed successfully
+2025-11-27 20:49:27 INFO  BaseTest:30 - Verifying Home Page title
+2025-11-27 20:49:27 INFO  BaseTest:34 - Home Page title verified successfully
+2025-11-27 20:49:27 INFO  BaseTest:36 - Verifying Home Page URL
+2025-11-27 20:49:27 INFO  BaseTest:38 - Home Page URL verified successfully
+2025-11-27 20:49:27 INFO  BaseTest:42 - Clicked on Register link
+2025-11-27 20:49:27 INFO  BaseTest:48 - Registration page URL verified
+2025-11-27 20:49:27 INFO  BaseTest:53 - Registration page title verified
+2025-11-27 20:49:27 INFO  BaseTest:55 - Navigated to Registration page successfully
+2025-11-27 20:49:28 INFO  BaseTest:67 - Filled personal details
+2025-11-27 20:49:29 INFO  BaseTest:74 - Filled account credentials
+2025-11-27 20:49:30 INFO  BaseTest:78 - Clicked on Register button
+2025-11-27 20:49:30 INFO  BaseTest:83 - Account created successfully for user: RisaUser1
+2025-11-27 20:49:31 INFO  BaseTest:87 - Clicked on logout button and logged out successfully
+2025-11-27 20:49:31 INFO  BaseTest:89 - Test completed successfully: testRegisterAccountSuccessful
+2025-11-27 20:49:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/_rels/workbook.xml.rels
+2025-11-27 20:49:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2025-11-27 20:49:31 DEBUG PackageRelationshipCollection:307 - Parsing relationship: /_rels/.rels
+2025-11-27 20:49:36 INFO  BaseTest:20 - ------------------------ Starting test: testRegisterAccountSuccessful ---------------------
+2025-11-27 20:49:36 INFO  BaseTest:27 - Checking if Home Page is displayed
+2025-11-27 20:49:36 INFO  BaseTest:29 - Home Page displayed successfully
+2025-11-27 20:49:36 INFO  BaseTest:31 - Verifying Home Page title
+2025-11-27 20:49:36 INFO  BaseTest:35 - Home Page title verified successfully
+2025-11-27 20:49:36 INFO  BaseTest:37 - Verifying Home Page URL
+2025-11-27 20:49:36 INFO  BaseTest:40 - Home Page URL verified successfully
+2025-11-27 20:49:38 INFO  BaseTest:46 - Entered username and password, clicked on login button
+2025-11-27 20:49:38 INFO  BaseTest:53 - Accounts Overview URL verified
+2025-11-27 20:49:38 INFO  BaseTest:58 - Accounts Overview page title verified
+2025-11-27 20:49:38 INFO  BaseTest:62 - Accounts Overview page displayed successfully
+2025-11-27 20:49:38 INFO  BaseTest:64 - Navigated to Account Overview page successfully
+2025-11-27 20:49:39 INFO  BaseTest:68 - Clicked on logout button
+2025-11-27 20:49:39 INFO  BaseTest:70 - Verifying Home Page after logout
+2025-11-27 20:49:39 INFO  BaseTest:73 - Redirected to Home Page successfully after logout
+2025-11-27 20:49:39 INFO  BaseTest:76 - --------------Test completed successfully: testRegisterAccountSuccessful ------------------------
+2025-11-27 20:49:43 INFO  BaseTest:20 - ------------------------ Starting test: testRegisterAccountSuccessful ---------------------
+2025-11-27 20:49:43 INFO  BaseTest:27 - Checking if Home Page is displayed
+2025-11-27 20:49:43 INFO  BaseTest:29 - Home Page displayed successfully
+2025-11-27 20:49:43 INFO  BaseTest:31 - Verifying Home Page title
+2025-11-27 20:49:43 INFO  BaseTest:35 - Home Page title verified successfully
+2025-11-27 20:49:43 INFO  BaseTest:37 - Verifying Home Page URL
+2025-11-27 20:49:43 INFO  BaseTest:40 - Home Page URL verified successfully
+2025-11-27 20:49:47 INFO  BaseTest:46 - Entered username and password, clicked on login button
+2025-11-27 20:49:47 INFO  BaseTest:53 - Accounts Overview URL verified
+2025-11-27 20:49:47 INFO  BaseTest:58 - Accounts Overview page title verified
+2025-11-27 20:49:47 INFO  BaseTest:62 - Accounts Overview page displayed successfully
+2025-11-27 20:49:47 INFO  BaseTest:64 - Navigated to Account Overview page successfully
+2025-11-27 20:49:47 INFO  BaseTest:68 - Clicked on logout button
+2025-11-27 20:49:47 INFO  BaseTest:70 - Verifying Home Page after logout
+2025-11-27 20:49:47 INFO  BaseTest:73 - Redirected to Home Page successfully after logout
+2025-11-27 20:49:47 INFO  BaseTest:76 - --------------Test completed successfully: testRegisterAccountSuccessful ------------------------
+2025-11-27 20:49:51 INFO  BaseTest:22 - ------------------- Starting test: testTransferfunds --------------------------
+2025-11-27 20:49:51 INFO  BaseTest:32 - Checking if Home Page is displayed
+2025-11-27 20:49:51 INFO  BaseTest:34 - Home Page displayed successfully
+2025-11-27 20:49:51 INFO  BaseTest:37 - Verifying Home Page title
+2025-11-27 20:49:51 INFO  BaseTest:39 - Home Page title verified successfully
+2025-11-27 20:49:51 INFO  BaseTest:42 - Verifying Home Page URL
+2025-11-27 20:49:51 INFO  BaseTest:44 - Home Page URL verified successfully
+2025-11-27 20:49:52 INFO  BaseTest:50 - Clicked on login button
+2025-11-27 20:49:52 INFO  BaseTest:59 - Accounts Overview URL verified
+2025-11-27 20:49:52 INFO  BaseTest:62 - Accounts Overview page title verified
+2025-11-27 20:49:52 INFO  BaseTest:65 - Navigated to Account Overview page successfully
+2025-11-27 20:49:53 INFO  BaseTest:69 - Navigated to Open Account page
+2025-11-27 20:49:53 INFO  BaseTest:74 - Selected account type: SAVINGS
+2025-11-27 20:49:55 INFO  BaseTest:88 - Clicked on 'Open New Account' button
+2025-11-27 20:49:55 INFO  BaseTest:92 - 'Account Opened!' message verified
+2025-11-27 20:49:55 INFO  BaseTest:95 - 'Congratulations, your account is now open' message verified
+2025-11-27 20:49:55 INFO  BaseTest:98 - New Account Number displayed: 14565
+2025-11-27 20:49:56 INFO  BaseTest:102 - Navigated back to Account Overview page
+2025-11-27 20:49:58 INFO  BaseTest:112 - Navigated to Transfer Funds page
+2025-11-27 20:49:58 INFO  BaseTest:117 - Transfer page URL verified
+2025-11-27 20:49:58 INFO  BaseTest:120 - Transfer page title verified
+2025-11-27 20:49:58 INFO  BaseTest:124 - Entered transfer amount: 100
+2025-11-27 20:49:59 INFO  BaseTest:127 - Selected From Account: 14454
+2025-11-27 20:49:59 INFO  BaseTest:130 - Selected To Account: 14565
+2025-11-27 20:49:59 INFO  BaseTest:133 - Clicked on 'Transfer' button
+2025-11-27 20:49:59 INFO  BaseTest:141 - Transfer Complete page displayed successfully
+2025-11-27 20:49:59 INFO  BaseTest:144 - Fund Transfer verified successfully between accounts: From [14454] to [14565]
+2025-11-27 20:49:59 INFO  BaseTest:146 - -------------Test completed: testTransferfunds ----------
+2025-11-27 20:50:03 INFO  BaseTest:21 - ------------------------- Starting test: testVerifyLoanRequest -------------------------------
+2025-11-27 20:50:03 INFO  BaseTest:26 - Checking if Home Page is displayed
+2025-11-27 20:50:03 INFO  BaseTest:28 - Home Page displayed successfully
+2025-11-27 20:50:03 INFO  BaseTest:30 - Verifying Home Page title
+2025-11-27 20:50:03 INFO  BaseTest:32 - Home Page title verified successfully
+2025-11-27 20:50:03 INFO  BaseTest:34 - Verifying Home Page URL
+2025-11-27 20:50:03 INFO  BaseTest:36 - Home Page URL verified successfully
+2025-11-27 20:50:04 INFO  BaseTest:42 - Clicked on login button
+2025-11-27 20:50:04 INFO  BaseTest:50 - Accounts Overview URL verified
+2025-11-27 20:50:04 INFO  BaseTest:52 - Accounts Overview page title verified
+2025-11-27 20:50:04 INFO  BaseTest:54 - Navigated to Account overview page
+2025-11-27 20:50:05 INFO  BaseTest:57 - Clicked on Loan Request link
+2025-11-27 20:50:05 INFO  BaseTest:65 - Loan Request URL verified
+2025-11-27 20:50:05 INFO  BaseTest:67 - Loan Request page title verified
+2025-11-27 20:50:05 INFO  BaseTest:70 - Loan Request page displayed successfully
+2025-11-27 20:50:05 INFO  BaseTest:74 - Entered loan amount
+2025-11-27 20:50:05 INFO  BaseTest:76 - Entered down payment
+2025-11-27 20:50:05 INFO  BaseTest:78 - Selected account for loan
+2025-11-27 20:50:06 INFO  BaseTest:80 - Clicked on Apply Now button
+2025-11-27 20:50:07 INFO  BaseTest:87 - 'Loan Request Processed' heading displayed.
+2025-11-27 20:50:07 INFO  BaseTest:89 - Loan success message displayed successfully.
+2025-11-27 20:50:07 INFO  BaseTest:91 - -------------Test completed: testVerifyLoanRequest ----------
+2025-11-27 20:50:12 INFO  BaseTest:20 - -------------- Starting test: testUpdateProfile ------------------------
+2025-11-27 20:50:12 INFO  BaseTest:29 - Checking if Home Page is displayed
+2025-11-27 20:50:12 INFO  BaseTest:31 - Home Page displayed successfully
+2025-11-27 20:50:12 INFO  BaseTest:33 - Verifying Home Page title
+2025-11-27 20:50:12 INFO  BaseTest:35 - Home Page title verified successfully
+2025-11-27 20:50:12 INFO  BaseTest:37 - Verifying Home Page URL
+2025-11-27 20:50:12 INFO  BaseTest:39 - Home Page URL verified successfully
+2025-11-27 20:50:14 INFO  BaseTest:45 - Clicked on login button
+2025-11-27 20:50:14 INFO  BaseTest:53 - Accounts Overview URL verified
+2025-11-27 20:50:14 INFO  BaseTest:56 - Accounts Overview page title verified
+2025-11-27 20:50:14 INFO  BaseTest:59 - Navigated to Account overview page
+2025-11-27 20:50:15 INFO  BaseTest:65 - Navigated to Update Profile page
+2025-11-27 20:50:15 INFO  BaseTest:70 - Updated phone number 
+2025-11-27 20:50:15 INFO  BaseTest:73 - Phone number entered: 8888877711
+2025-11-27 20:50:16 INFO  BaseTest:81 - Profile updated message verified
+2025-11-27 20:50:17 INFO  BaseTest:86 - Clicked on logout button and redirected to Home Page
+2025-11-27 20:50:17 INFO  BaseTest:94 - Logged in again to verify updated profile
+2025-11-27 20:50:18 INFO  BaseTest:97 - Navigated to Account overview page after re-login
+2025-11-27 20:50:19 INFO  BaseTest:103 - Navigated to Update Profile page again
+2025-11-27 20:50:19 INFO  BaseTest:112 - Phone number after re-login: 8888877711
+2025-11-27 20:50:19 INFO  BaseTest:115 - Phone number verification successful
+2025-11-27 20:50:19 INFO  BaseTest:116 - -------------Test completed: testUpdateProfile ----------
