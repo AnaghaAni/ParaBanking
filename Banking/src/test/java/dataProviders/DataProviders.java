@@ -27,7 +27,7 @@ public class DataProviders
 	{
         return new Object[][] {
             // username, password, accountType, amount
-            {"RisaUser0", "Pass@1231", "SAVINGS", "100"}
+            {"RisaUser1", "Pass@1231", "SAVINGS", "100"}
         };
     }
 	
@@ -36,7 +36,7 @@ public class DataProviders
     public Object[][] getLoanRequestData() {
         return new Object[][]{
             // username, password, loanAmount, downPayment, accountIndex
-            {"RisaUser0", "Pass@1231", "100", "20", 0}
+            {"RisaUser1", "Pass@1231", "100", "20", 0}
         };
     }
     
@@ -45,7 +45,7 @@ public class DataProviders
         return new Object[][]{
             // username, password, phone
            
-            {"LisaUser0", "Pass@123", "8888877711"}
+            {"LisaUser1", "Pass@123", "8888877711"}
             
         };
     }
